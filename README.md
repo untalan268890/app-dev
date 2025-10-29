@@ -12,7 +12,7 @@ My Repository
    - Jennifer's Body is a 2009 horror-comedy about a high school cheerleader who is sacrificed by an indie band in a ritual that turns her into a succubus that must feed on male classmates to survive. The story follows her nerdy best friend, Needy, as she uncovers the truth and tries to stop her. 
 
 4. **Princess Diary**
-   - he Princess Diaries is a series about a shy, awkward San Francisco teenager named Amelia "Mia" Thermopolis who discovers she is the heir to the throne of the small European principality of Genovia. She must then navigate the challenges of high school while also undergoing princess lessons from her formidable grandmother to prepare for her royal duties. The story follows her personal growth as she learns to balance her normal teenage life with the new responsibilities of being a princess.
+   - The Princess Diaries is a series about a shy, awkward San Francisco teenager named Amelia "Mia" Thermopolis who discovers she is the heir to the throne of the small European principality of Genovia. She must then navigate the challenges of high school while also undergoing princess lessons from her formidable grandmother to prepare for her royal duties. The story follows her personal growth as she learns to balance her normal teenage life with the new responsibilities of being a princess.
 
 5. **13 Going on 30**
    - 13 Going on 30 is a 2004 fantasy-comedy film about Jenna Rink, a 13-year-old girl who, after a humiliating birthday party, wishes to be 30 and wakes up in the body of her 30-year-old self with the life she thought she wanted. As an adult, she must navigate her new reality while using her 13-year-old sensibilities to fix the mistakes of her past, particularly with her best friend, Matt. 
